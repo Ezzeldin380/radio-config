@@ -1,0 +1,14 @@
+{
+  "streams": [
+    "https://s3.radio.com.eg:8000/ertu_quran",
+    "https://stream.zeno.fm/pyc8kax6f2zuv",
+    "https://qurango.net/radio/maher",
+    "https://radio.mp3islam.com:8070/radio.mp3",
+    "https://radio.mp3islam.com:8050/radio.mp3",
+    "https://radio.mp3islam.com:8060/radio.mp3",
+    "http://stream.radiojar.com/8s5u5tpdtwzuv",
+    "http://n06.radiojar.com/8s5u5tpdtwzuv",
+    "http://live.mp3quran.net:9988/;stream.mp3",
+    "http://live.mp3quran.net:9990/;stream.mp3"
+  ]
+}
